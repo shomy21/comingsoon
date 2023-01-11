@@ -1,0 +1,79 @@
+/* ************************************************   
+Template Name: Grungy Coming soon
+Description: Grunge Experience is a coming soon template with unique grunge design. 
+Author: strangerr 
+Author URI: http://themeforest.net/user/strangerr 
+Version: 1.0 
+
+************************************************ */
+
+
+/****************** GLOBAL SETTINGS **************/
+
+* {margin:0; padding:0}
+html, body {background-color:#f8f8f8; height:100%}
+h3 {font-size:18px; color:#9a2e2b; letter-spacing:1px; float:left; margin-left:15px; margin-top:15px;}
+.clear{clear:both}
+img{border:none}
+
+/*************************************************/
+
+
+/*************** COUNTDOWN WIDGET ****************/
+
+#countdown {background-image:url('../images/countdown_bg.png');width:800px;height:210px;margin-top:25px;position:relative;}
+#time {color:#aeaeae;font-size:28px;letter-spacing:2px; position:absolute; top:0px; left:0px; width:100%}
+#time div{float:left; width:160px; height:120px; text-align:center; margin:86px 0 0 0px;}
+.days, .hours, .minutes, .seconds{width:170px;height:160px;float:left; margin:25px 0 0 40px;} 
+.days {background-image:url('../images/days_bg.png'); margin-left:0px;}
+.hours {background-image:url('../images/hours_bg.png'); }
+.minutes {background-image:url('../images/minutes_bg.png')}
+.seconds {background-image:url('../images/seconds_bg.png')}
+#time div span{display:block; text-align:center; margin-top:20px; }
+.day-container{margin-left:6px !important}
+.hour-container{margin-left:52px !important}
+.minute-container{margin-left:52px !important}
+.second-container{margin-left:50px !important}
+
+/*************************************************/
+
+
+/*************** SUBSCRIBE FORM ******************/
+
+.subscribe, .aboutus{margin-bottom:150px}
+.subscribe {float:right;background-image:url(../images/box_bg.png);width:380px;height:158px;margin-top:25px;}
+#subscribeform {float:left;margin:7px 0 0 15px;}
+.email {background:#f8f8f8;width:240px;height:21px;border:5px solid #333;margin-top:20px;}
+.btn {width:110px;height:31px;background:#333;text-transform:uppercase;border:2px solid #330;font-size:14px;letter-spacing:1px;color:#f8f8f8; margin:20px 0px 0px 2px}
+.email, .btn{float:left}
+.btn:hover {background:#9a2e2b;cursor:pointer;}
+.btn:active {background:#666;}
+
+/*************************************************/
+
+
+/*************** SUBSCRIBE FORM ******************/
+
+#socials {clear:both;float:left;margin:17px 0 0 3px;}
+#socials a img {margin-left:11px;}
+
+/*************************************************/
+
+
+/********* GENERAL STRUCTURE AND HEADERS *********/
+
+#wrapper {background-image:url('../images/texture.png') repeat-x bottom; min-height: 100%;  margin: 0px auto; width:800px; min-height: 100%;height: auto !important;height: 100%;margin: 0 auto 37px;}
+.logo {display:block;margin:0 auto;position:relative;top:100px;}
+.maintitle {font-size:40px;color:#222339;letter-spacing:1px;text-align:center;display:block;margin-top:200px;text-transform:uppercase}
+.titlemessage {font-size:22px;letter-spacing:1px;color:#222339;text-align:center;background:url('../images/arrow.png') no-repeat right;padding-right:16px;height:39px;line-height:39px;width:404px;margin:0px auto}
+.aboutus {width:394px;height:158px;clear:both;float:left;margin-top:25px;}
+.description {font-family:"Times New Roman", Times, serif;font-size:14px;color:#4f4c3f;line-height:26px;font-style:italic;float:left;margin-left:15px;margin-top:20px}
+
+/*************************************************/
+
+
+/******************* FOOTER **********************/
+
+#footer {clear:both;background:url('../images/footer_bg.png') repeat-x;height:37px; }
+
+/*************************************************/
