@@ -45,7 +45,7 @@
 			
 			 <div>
                      
-					 <button name="subscribe" onclick= target="_blank" "document.location='https://app.uniswap.org/'"    id="Subscribe" class="btn">BUY ON UNISWAP</button>
+					 <button name="subscribe" onclick= "document.location='https://app.uniswap.org/'"    id="Subscribe" class="btn">BUY ON UNISWAP</button>
 			    </div>
 			
             
