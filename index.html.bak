@@ -18,7 +18,7 @@
         <!-- Logo -->
         <img src="images/logo.png" class="logo" alt="Logo" />
         <!-- Main Title -->
-        <h1 class="maintitle">Our website will be live soon </h1>
+        <h1 class="maintitle">Our website v2 will be live soon </h1>
         <p class="titlemessage">Estimated Time Remaining Before Launch </p>
         <!-- Countdown Timer START -->
         <div id="countdown">
@@ -30,6 +30,10 @@
             <div class="clear"></div>
         </div>
         <!-- Countdown Timer END -->
+		
+		  <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/png">
+	
         <!-- About us -->
         <div class="aboutus">
             <h3 class="aboutustitle">About Us </h3>
@@ -40,7 +44,7 @@
        
         <!-- Subscribe -->
         <div class="subscribe">
-            <h3 class="subscribetitle">AITradeBot SMART CONTRACT ADDRESS: </h3>
+            <h3 class="subscribetitle">AITradeBot SMART CONTRACT ADDRESS: 0xdbc77926b923c878fe699d47e3bfd80deefa1d79</h3>
             <!-- Form -->
 			
 			 <div>
