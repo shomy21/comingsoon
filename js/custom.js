@@ -15,7 +15,7 @@ Cufon.replace('.titlemessage, .cd-time', { fontFamily: 'Note this' });
 jQuery(document).ready(function() {
 								
 	jQuery("#time").countdown({
-		date: "january 15, 2023",
+		date: "january 17, 2023",
 		 "onChange" : function(event, settings){
 			Cufon.refresh();	  
         },
